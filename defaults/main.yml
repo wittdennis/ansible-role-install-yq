@@ -1,3 +1,3 @@
 ---
 # defaults file for roles/install_yq
-install_yq_version: "v4.44.5" # renovate: datasource=github-releases depName=mikefarah/yq versioning=semver
+install_yq_version: "v4.44.6" # renovate: datasource=github-releases depName=mikefarah/yq versioning=semver
