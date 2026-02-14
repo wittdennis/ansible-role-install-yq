@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.15](https://github.com/wittdennis/ansible-role-install-yq/compare/ec66d429c76d5d8c69fd7b691617bdde6f889a5d..1.0.15) - 2026-02-14
+#### Bug Fixes
+- (**deps**) update dependency mikefarah/yq to v4.52.4 - ([ecfa29c](https://github.com/wittdennis/ansible-role-install-yq/commit/ecfa29cd9637530158c3b3b34092043ff15bf3da)) - wittdennis-renovate[bot]
+#### Miscellaneous Chores
+- (**deps**) update wittdennis/pipelines action to v1.13.8 - ([84642a1](https://github.com/wittdennis/ansible-role-install-yq/commit/84642a104f165b4f106e58c9efb2a1aa186ac8f2)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v1.13.7 - ([ec66d42](https://github.com/wittdennis/ansible-role-install-yq/commit/ec66d429c76d5d8c69fd7b691617bdde6f889a5d)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.14](https://github.com/wittdennis/ansible-role-install-yq/compare/b404b7de0f0ef2bebbc4764bb657235d3f4b2c8b..1.0.14) - 2026-02-01
 #### Bug Fixes
 - (**deps**) update dependency mikefarah/yq to v4.52.2 - ([6fa94dc](https://github.com/wittdennis/ansible-role-install-yq/commit/6fa94dc6fc072f51a3fba233c2b569425e28cb4d)) - wittdennis-renovate[bot]
