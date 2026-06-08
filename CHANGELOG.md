@@ -2,6 +2,28 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## [1.0.18](https://github.com/wittdennis/ansible-role-install-yq/compare/6015b0e90d80e266a9761226874dd4f31170dba7..1.0.18) - 2026-06-08
+#### Bug Fixes
+- (**deps**) update dependency mikefarah/yq to v4.53.3 - ([f69fc02](https://github.com/wittdennis/ansible-role-install-yq/commit/f69fc02eaf1067d2abbe0c664aa39af772a90df0)) - wittdennis-renovate[bot]
+#### Miscellaneous Chores
+- (**deps**) update wittdennis/pipelines action to v2.0.24 - ([b4fc1cb](https://github.com/wittdennis/ansible-role-install-yq/commit/b4fc1cb81759786b879436bdbe3f4454cb445fd3)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.23 - ([31037f9](https://github.com/wittdennis/ansible-role-install-yq/commit/31037f96c9851e28c52ec2fa10f5368c2f60ee45)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.22 - ([3177c4e](https://github.com/wittdennis/ansible-role-install-yq/commit/3177c4e58458ba2ae55b8d9c7725a9c7b1f92df6)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.21 - ([347dfa3](https://github.com/wittdennis/ansible-role-install-yq/commit/347dfa3e899e8848addeed2bca6f6c1504247d37)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.20 - ([19ee8b0](https://github.com/wittdennis/ansible-role-install-yq/commit/19ee8b0d8a176a107e1b690c5e2ebe089608f648)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.19 - ([2413928](https://github.com/wittdennis/ansible-role-install-yq/commit/24139284e5cb045217362780439706b373f10e9d)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.18 - ([31c073c](https://github.com/wittdennis/ansible-role-install-yq/commit/31c073cdbc5fa5de54e7680a7b799497745ca5db)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.17 - ([669c3a3](https://github.com/wittdennis/ansible-role-install-yq/commit/669c3a355f35269c34648b1d87ed382884573fea)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.16 - ([edc2695](https://github.com/wittdennis/ansible-role-install-yq/commit/edc26951f477362dfa0a43cc6a529c6db16a36d9)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.15 - ([6ea0218](https://github.com/wittdennis/ansible-role-install-yq/commit/6ea02182aab1d14b5f381d84cb00779496c6d3de)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.14 - ([3c47d1f](https://github.com/wittdennis/ansible-role-install-yq/commit/3c47d1f1006480fd8767b0d6dcc705c9e61ca50c)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.13 - ([d597aad](https://github.com/wittdennis/ansible-role-install-yq/commit/d597aad27cab5126773e118685589e33db8a10ec)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.12 - ([0ddc03e](https://github.com/wittdennis/ansible-role-install-yq/commit/0ddc03ec1dc57dc0cb83bb0970c615cc56670676)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.11 - ([f4b3374](https://github.com/wittdennis/ansible-role-install-yq/commit/f4b33742df7a09dd73bfcf6329a96520070f5be2)) - wittdennis-renovate[bot]
+- (**deps**) update wittdennis/pipelines action to v2.0.10 - ([6015b0e](https://github.com/wittdennis/ansible-role-install-yq/commit/6015b0e90d80e266a9761226874dd4f31170dba7)) - wittdennis-renovate[bot]
+
+- - -
+
 ## [1.0.17](https://github.com/wittdennis/ansible-role-install-yq/compare/86f8a2c0f02b867b2e3c219335e30334d2e74c06..1.0.17) - 2026-04-17
 #### Bug Fixes
 - (**deps**) update dependency mikefarah/yq to v4.53.2 - ([2271b82](https://github.com/wittdennis/ansible-role-install-yq/commit/2271b82facc96b1f30186b7423fc731dd618648c)) - wittdennis-renovate[bot]
